@@ -33,5 +33,5 @@ vignettes/*.pdf
 *.knit.md
 
 # Data
-
+advert.csv
 .ipynb_checkpoints
